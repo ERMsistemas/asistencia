@@ -85,7 +85,7 @@ created() {
     },
     template: `
     <div class="dyntab">
-        <h3 class="text-center my-3">Alumnos></h3>
+        <h3 class="text-center my-3">Alumnos: </h3>
         
         <div class="container my-3">
   <label><strong>Filtrar por curso:</strong></label>
